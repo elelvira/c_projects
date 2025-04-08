@@ -1,0 +1,15 @@
+1. a         :a
+1. b         :b
+1. c         :c
+1. d         :d
+1. f         :f
+1. r         :r
+1. u         :u
+1. w         :w
+1. q         :q
+1. q         :q
+1. q         :q
+1. t         :t
+1. r         :r
+3. jednoslovo:jednoslovo
+4. kkkkk     :kkkkk

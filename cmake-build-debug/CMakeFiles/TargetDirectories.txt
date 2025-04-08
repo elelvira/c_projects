@@ -1,0 +1,3 @@
+/mnt/c/Users/Hp/CLionProjects/zadanie3/cmake-build-debug/CMakeFiles/zadanie3.dir
+/mnt/c/Users/Hp/CLionProjects/zadanie3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Hp/CLionProjects/zadanie3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
