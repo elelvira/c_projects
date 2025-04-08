@@ -1,1 +1,0 @@
--d -p -R planeta V nE sV

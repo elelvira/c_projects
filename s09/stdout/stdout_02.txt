@@ -1,9 +1,0 @@
-1. nepi    :nepi
-1. horucu  :horucu
-1. kavu    :kavu
-2. rad     :rad
-2. lietam  :lietam
-2. v       :v
-2. oblakoch:oblakoch
-3. abc     :abc
-3. ghk     :ghk
